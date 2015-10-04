@@ -1,4 +1,4 @@
-// githubtext.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
+// githubtext.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
 //
 
 #include "stdafx.h"
@@ -8,6 +8,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 	cout << "hello world" << endl;
 	cout << "my name is wjx" << endl;
+	cout<<"wwwwwwww"<<endl;
 	system("pause");
 	return 0;
 }
